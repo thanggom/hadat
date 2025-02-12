@@ -1,15 +1,12 @@
-# Title: StevenBlack/hosts
+# Title: Ha Dat
 #
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 05 February 2025 02:17:13 (UTC)
-# Number of unique domains: 121,374
+# Date: 12 February 2025 11:19:13 (GMT+7)
+# 
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# Project home page: https://github.com/StevenBlack/hosts
-# Project releases: https://github.com/StevenBlack/hosts/releases
-#
+# 
 # ===============================================================
 
 127.0.0.1 localhost
@@ -29,20 +26,6 @@ ff02::3 ip6-allhosts
 
 # Custom host records are listed here.
 
-
-# End of custom host records.
-# Start StevenBlack
-
-#=====================================
-# Title: Hosts contributed by Steven Black
-# http://stevenblack.com
-
-0.0.0.0 get-gx.com
-0.0.0.0 go.godkc.com
-0.0.0.0 stripchats.io
-
-# End yoyo.org
-
 # blacklist
 #
 # The contents of this file (containing a listing of additional domains in
@@ -55,3 +38,38 @@ ff02::3 ip6-allhosts
 0.0.0.0 get-gx.com
 0.0.0.0 godkc.com
 0.0.0.0 stripchats.io
+0.0.0.0 fitgirl-repacks.site
+0.0.0.0 net.geo.opera.com
+0.0.0.0 photo-resize-zmp3.zmdcdn.me								
+0.0.0.0 lp.zingmp3.vn								
+0.0.0.0 api.kiki.zalo.ai								
+0.0.0.0 apps.itunes-nocookie.com								
+0.0.0.0 octopus-stream01-cads.fpt.vn								
+0.0.0.0 mzstorekit.itunes.apple.com								
+0.0.0.0 storage.yandexcloud.net								
+0.0.0.0 https-api-hk.bigolive.tv								
+0.0.0.0 cdl-lb-1356093980.us-east-1.elb.amazonaws.com								
+0.0.0.0 mobile-image.useinsider.com								
+0.0.0.0 fp2e7a.wpc.phicdn.net								
+0.0.0.0 push-rtmp-l1-sg01.tiktokcdn.com								
+0.0.0.0 push-rtmp-l16-sg01.tiktokcdn.com								
+0.0.0.0 v39-row.gts.byteoversea.net								
+0.0.0.0 1368870070.rsc.cdn77.org								
+0.0.0.0 ws-api.zingplay.me								
+0.0.0.0 api.zingplay.me								
+0.0.0.0 api-v2.zingplay.me								
+0.0.0.0 www.play.zing.vn								
+0.0.0.0 v16m.tiktokcdn.com								
+0.0.0.0 lookaside.facebook.com								
+0.0.0.0 bytetcdn.com								
+0.0.0.0 amp-api.apps.apple.com								
+0.0.0.0 bytefcdn-ttpeu.com^								
+0.0.0.0 atomile.com^								
+0.0.0.0 bytefcdn-oversea.com^								
+0.0.0.0 rocket-cdn.com^								
+0.0.0.0 wsdvs.com^								
+0.0.0.0 cdn20.com^								
+0.0.0.0 cdn77.org^								
+0.0.0.0 byteoversea.net^								
+0.0.0.0 spbycdn.com^						
+0.0.0.0 devauth.anlian.co																		
