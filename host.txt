@@ -51,3 +51,7 @@ ff02::3 ip6-allhosts
 # 'example.com':
 
 # 0.0.0.0 example.com
+
+0.0.0.0 get-gx.com
+0.0.0.0 godkc.com
+0.0.0.0 stripchats.io
