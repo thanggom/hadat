@@ -74,3 +74,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 spbycdn.com						
 0.0.0.0 devauth.anlian.co
 0.0.0.0 googlesyndication.com
+0.0.0.0 mgid.com
