@@ -3,7 +3,7 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 12 February 2025 11:19:13 (GMT+7)
+# Date: 12 March 2025 22:19:13 (GMT+7)
 # 
 #
 # 
@@ -75,3 +75,18 @@ ff02::3 ip6-allhosts
 0.0.0.0 devauth.anlian.co
 0.0.0.0 googlesyndication.com
 0.0.0.0 mgid.com
+0.0.0.0 profileid.info
+0.0.0.0 l-j.me
+0.0.0.0 j-l.me
+0.0.0.0 l-i.co
+0.0.0.0 offb.info
+0.0.0.0 profile-id.co
+0.0.0.0 facebooke.com
+0.0.0.0 vn-express.site
+0.0.0.0 me-fb.site
+0.0.0.0 ishare.watch
+0.0.0.0 l-id.pro
+0.0.0.0 0fb.info
+0.0.0.0 faceb.me
+0.0.0.0 tintucnhanh.online
+0.0.0.0 faceb.pro
