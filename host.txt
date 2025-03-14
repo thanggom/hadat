@@ -91,3 +91,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 tintucnhanh.online
 0.0.0.0 faceb.pro
 0.0.0.0 facebooks.it.com
+0.0.0.0 it.com
