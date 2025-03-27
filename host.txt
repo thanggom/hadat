@@ -98,3 +98,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 it.com
 0.0.0.0 facebooks.it.com
 0.0.0.0 get.it.com
+0.0.0.0 fm88.com
+0.0.0.0 bu88win.top
+0.0.0.0 supportsentparticle.com
