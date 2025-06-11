@@ -75,6 +75,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 devauth.anlian.co
 0.0.0.0 googlesyndication.com
 0.0.0.0 mgid.com
+0.0.0.0 789f8.xin
+0.0.0.0 mjksd823d.com
+0.0.0.0 quoracdn.net
+0.0.0.0 qph.cf2.quoracdn.net
 
 #=====================================
 # Title: Link shopee
@@ -101,3 +105,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 fm88.com
 0.0.0.0 bu88win.top
 0.0.0.0 supportsentparticle.com
+0.0.0.0 quayvk88.org
+0.0.0.0 wps.com
